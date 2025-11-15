@@ -18,4 +18,4 @@ We directly trained predictive models on the data, comparing simple ridge regres
 
 # Acknowledgments
 
-This work was performed with SobhanNili and Laz4rz, and supervised by A. Marin Vargas.
+This work was performed by usercharly123, Laz4rz and SobhanNili, and supervised by A. Marin Vargas.
