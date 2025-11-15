@@ -1,4 +1,4 @@
-# Predicting Neural Activity
+# Predicting Neural Activity from IT data
 
 This project aimed at comparing different approaches for prediction of neural recordings from the InferoTemporal cortex from the stimulus images, in order to identify the best approaches to achieve maximal performance. Particularly, we explored data-driven and task-driven approaches. This project was part of the course NX 414/ Brian-like Intelligence.
 
